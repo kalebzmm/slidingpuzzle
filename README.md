@@ -14,7 +14,7 @@ O algoritmo acima foi desenvolvido com o auxílio dos colegas Ezio Alves Freire 
 
 * Certifique-se de ter instalado o Python na sua máquina
 
-Altere as variáveis "QUANTIDADE_TESTES" e "MAX_PROFUNDIDADE_ARVORE" se necessário:
+* Altere as variáveis `QUANTIDADE_TESTES` e `MAX_PROFUNDIDADE_ARVORE` se necessário:
 
 ```python
 QUANTIDADE_TESTES = 10
@@ -22,7 +22,7 @@ MAX_PROFUNDIDADE_ARVORE = 3000
 puzzle(MAX_PROFUNDIDADE_ARVORE, QUANTIDADE_TESTES)
 ```
 
-No terminal, execute:
+* No terminal, execute:
 
 ```bash
 py index.py
