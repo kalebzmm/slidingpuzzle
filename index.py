@@ -179,4 +179,6 @@ def puzzle(maxD, nAmostras):
     print("Solucionados {} e não solucinados {} ".format(nS,nNs))
     return tempos,solucionados,naoSolucionados,nS,nNs
 
-puzzle(3000, 10)
+QUANTIDADE_TESTES = 10
+
+puzzle(3000, QUANTIDADE_TESTES)
